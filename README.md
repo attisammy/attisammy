@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/akpoebi-atti-691447373/">Akpoebi Samuelson Atti</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/akpoebi-atti-691447373/">Akpoebi Samuelson Atti</a>'s IT and Cybersecurity Portfolio 🔐
 
 I’m currently serving in the U.S. Navy as an Aviation Machinist Mate (AD), specialized in the maintenance of F/A-18E/F Super Hornet engines (F414-GE-400). 
 
