@@ -17,7 +17,7 @@ STIGs are the official checklist of those “locks and alarms” — but for com
 - **[Remediate DISA STIG WN10-CC-000290](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000290)**
 - **[Remediate DISA STIG WN10-CC-000326](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000326)**
 - **[Remediate DISA STIG WN10-CC-000365](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000365)**
-- **[Remediate DISA STIG WN10-CC-000270](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000391)**
+- **[Remediate DISA STIG WN10-CC-000391](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000391)**
 
 
 
