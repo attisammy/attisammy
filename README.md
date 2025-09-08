@@ -12,28 +12,10 @@ This GitHub is where my stories live: simulated breaches, investigations, detect
 
 ## ⚠️ Vulnerability Management And DISA-STIGs Implementations
 
-DISA STIGs (Defense Information Systems Agency – Security Technical Implementation Guides) are like rulebooks for computers used by the U.S. military and government.
-
-Think of it this way: if your house had valuable secrets inside, you’d want to lock the doors, add cameras, and make sure the windows can’t be forced open. STIGs are the official checklist of those “locks and alarms” — but for computers, servers, and networks.
-
-They tell system administrators:
-
-what settings to tighten,
-
-what features to disable,
-
-and how to make sure hackers can’t easily sneak in.
-
-In short: STIGs are step-by-step security instructions that help keep critical systems safe from cyber threats. Here are some STIGs that I remediated on a Windows 10 Operating System
-
-- **[Vulnerability Management Program Implementation](https://github.com/attisammy/System-s-Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
+Vulnerabilty Management is the ongoing process of finding, prioritizing, fixing, and re-checking weaknesses in systems before attackers exploit them, and DISA STIGs (Defense Information Systems Agency – Security Technical Implementation Guides) are like rulebooks for computers used by the U.S. military and government. Think of it this way: if your house had valuable secrets inside, you’d want to lock the doors, add cameras, and make sure the windows can’t be forced open. STIGs are the official checklist of those “locks and alarms” — but for computers, servers, and networks. They tell system administrators: what settings to tighten, what features to disable, and how to make sure hackers can’t easily sneak in. In this porject, I audited a company's IT infrastructure security posture and implemented solutions. And in the process ensured that their host machines are DISA compliant. Check it out:
+- **[Vulnerability Management Audit Program & Implementation](https://github.com/attisammy/System-s-Vulnerability-Management-Program)**
+- **[Remediate DISA STIG STIG WN10-CC-000255](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000255)**
+- **[Remediate DISA STIG STIG WN10-CC-000270](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000270)**
 
 ## 🚨 Threat Hunting and Security Operations
 
