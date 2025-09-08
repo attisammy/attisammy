@@ -11,13 +11,13 @@ Vulnerabilty Management is the ongoing process of finding, prioritizing, fixing,
 STIGs are the official checklist of those “locks and alarms” — but for computers, servers, and networks. They tell system administrators: what settings to tighten, what features to disable, and how to make sure hackers can’t easily sneak in. In this porject, I audited a company's IT infrastructure security posture and implemented solutions. And in the process ensured that their host machines are DISA compliant. Check them out:
 
 - **[Vulnerability Management Audit Program & Implementation](https://github.com/attisammy/System-s-Vulnerability-Management-Program)**
-- **[Remediate DISA STIG STIG WN10-CC-000255](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000255)**
-- **[Remediate DISA STIG STIG WN10-CC-000270](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000270)**
-- **[Remediate DISA STIG STIG WN10-CC-000280](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000280))**
-- **[Remediate DISA STIG STIG WN10-CC-000290](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000290)**
-- **[Remediate DISA STIG STIG WN10-CC-000326](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000326)**
-- **[Remediate DISA STIG STIG WN10-CC-000365](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000365)**
-- **[Remediate DISA STIG STIG WN10-CC-000270](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000391)**
+- **[Remediate DISA STIG WN10-CC-000255](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000255)**
+- **[Remediate DISA STIG WN10-CC-000270](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000270)**
+- **[Remediate DISA STIG WN10-CC-000280](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000280)**
+- **[Remediate DISA STIG WN10-CC-000290](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000290)**
+- **[Remediate DISA STIG WN10-CC-000326](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000326)**
+- **[Remediate DISA STIG WN10-CC-000365](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000365)**
+- **[Remediate DISA STIG WN10-CC-000270](https://github.com/attisammy/System-s-Vulnerability-Management-Program/blob/main/STIGS/STIG%20WN10-CC-000391)**
 
 
 
