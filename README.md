@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/akpoebi-atti-691447373/">Akpoebi Samuelson Atti</a>'s IT and Cybersecurity Portfolio 🔐
+# <a href="https://www.linkedin.com/in/akpoebi-atti-691447373/">Akpoebi Samuelson Atti</a>'s IT and Cybersecurity Portfolio
 
 My journey started with a Bachelor’s in Computer Science, fueled by an obsession with solving puzzles and asking “what if an attacker tried this?”. That curiosity grew into a craft — the craft of a Threat Hunter.
 
@@ -10,7 +10,7 @@ This GitHub is where my stories live: simulated breaches, investigations, detect
 
 
 
-## ⚠️ Vulnerability Management (DISA-STIG)
+## Vulnerability Management And DISA-STIGs Implementations
 
 DISA STIGs (Defense Information Systems Agency – Security Technical Implementation Guides) are like rulebooks for computers used by the U.S. military and government.
 
