@@ -1,8 +1,18 @@
-# <a href="https://www.linkedin.com/in/akpoebi-atti-691447373/">Akpoebi Samuelson Atti</a>'s IT and Cybersecurity Portfolio
+# <a href="https://www.linkedin.com/in/akpoebi-sam-atti-691447373/">Akpoebi Samuelson Atti</a>'s IT and Cybersecurity Portfolio
 
-My journey started with a thought, fueled by an obsession with solving puzzles and asking “what if an attacker tried this?”. That curiosity grew into a craft — the craft of a Threat Hunter. Today, Micorsoft Azure Cloud is my playground, navigating through Sentinel, Micorsoft Defender for Endpoints (MDE), and Log Analytics, I roam through them with my trusty tools: PowerShell, Python, and KQL, with these tools, I hunt for adversaries, trace their footprints, and turn their tricks into new defenses. 
+Building secure Microsoft Azure environments with expertise in cloud infrastructure, networking, identity and access management, security operations, and enterprise cloud support. I also create hands-on Azure training that prepares the next generation of cloud engineers.
 
-Along the way, I’ve armed myself with certifications — CompTIA Network+, ISC2 Certified in Cybersecurity (CC), and CompTIA Security+ — not as badges, but as milestones in the fight to sharpen my skills. This GitHub is where my stories live: simulated breaches, investigations, detections, and the lessons I’ve carved out of every hunt. It’s proof that persistence, creativity, and a bit of stubbornness can turn curiosity into a weapon. 
+Work done in Azure so far covers:
+- Health IT / HIPAA
+- NIST 800-53 & NIST 800-61 frameworks
+- Microsoft Azure Cloud
+- Threat Hunting with Kusto Query Language (KQL), Microsoft Sentinel and MDE (Microsoft Defender for Endpoint)/Cloud
+- Network Security Groups (NSGs)
+- Virtual Networks 
+- Vulnerability Management with Tenable
+- Azure Cloud Shell Scripting
+
+Let’s connect — whether you’re in uniform, in cyber, or on the journey to get there.
 
 ## ⚠️ Vulnerability Management And DISA-STIGs Implementations
 
